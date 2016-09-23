@@ -1,0 +1,14 @@
+{
+  "name": "phucboyzsiteapi",
+  "version": "0.0.1",
+  "description": "Phuc Boyz Site API",
+  "main": "init.js",
+  "private": true,
+  "dependencies": {
+    "hapi": "^15.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {},
+  "author": "Phuc Boyz Ltd.",
+  "license": "UNLICENSED"
+}
